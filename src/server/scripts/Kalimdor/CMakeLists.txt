@@ -187,6 +187,7 @@ set(scripts_STAT_SRCS
   Kalimdor/RagefireChasm/instance_ragefire_chasm.cpp
   Kalimdor/RagefireChasm/ragefire_chasm.cpp
   Kalimdor/RagefireChasm/ragefire_chasm.h
+  Kalimdor/RagefireChasm/boss_adarogg.cpp
   Kalimdor/RagefireChasm/boss_lava_guard_gordoth.cpp
 )
 
