@@ -295,6 +295,7 @@ void AddSC_wetlands();
 void AddSC_instance_ragefire_chasm();
 void AddSC_ragefire_chasm();
 void AddSC_boss_adarogg();
+void AddSC_boss_koranthal();
 void AddSC_boss_lava_guard_gordoth();
 
 void AddSC_blackfathom_deeps();              //Blackfathom Depths
@@ -1248,6 +1249,7 @@ void AddKalimdorScripts()
     AddSC_instance_ragefire_chasm();
     AddSC_ragefire_chasm();
     AddSC_boss_adarogg();
+    AddSC_boss_koranthal();
     AddSC_boss_lava_guard_gordoth();
 
     AddSC_blackfathom_deeps();              //Blackfathom Depths
